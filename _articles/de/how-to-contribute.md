@@ -80,18 +80,6 @@ Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektasp
 
 Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglichkeit, sich an einem Projekt zu beteiligen und andere Leute aus der Community zu treffen. Solche Beziehungen aufzubauen, ebnet Ihnen den Weg zur Mitarbeit an anderen Projektaspekten.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich habe mich zum ersten Mal an das Python-Entwicklungsteam ("python-dev") gewandt, als ich am 17. Juni 2002 eine E-Mail bezüglich eines Patches von mir an die Mailingliste schickte. Das Open-Source-Fieber packte mich sofort und ich beschloss, E-Mail-Zusammenfassungen für die Gruppe zu kuratieren. So hatte ich immer eine gute Ausrede, um mir Dinge erklären zu lassen. Aber noch wichtiger war die Möglichkeit, schnell mitzubekommen wenn jemand auf einen Reparaturbedarf hinwies.
-
-  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Planen Sie gerne Veranstaltungen?
 
 * Veranstalten Sie Workshops oder Meetups über das Projekt, wie @fzamperin [für NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -245,7 +233,7 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 
@@ -268,7 +256,7 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 
 **Das Projekt nimmt aktiv Beiträge entgegen**
 
-Sehen Sie sich die Commit-Aktivität auf dem Master-Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
+Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">

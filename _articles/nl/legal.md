@@ -3,14 +3,6 @@ lang: nl
 title: De juridische kant van open source
 description: Alles wat je je ooit hebt afgevraagd over de juridische kant van open source, en een paar dingen die je niet deed.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Waarom geven mensen zoveel om de juridische kant van open source?"
-  are-public-github-projects-open-source: "Zijn openbare GitHub-projecten open source?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen"
-  which-open-source-license-is-appropriate-for-my-project: "Welke open source-licentie is geschikt voor mijn project?"
-  what-if-i-want-to-change-the-license-of-my-project: "Wat moet ik doen als ik de licentie van mijn project wil wijzigen?"
-  does-my-project-need-an-additional-contributor-agreement: "Heeft mijn project een aanvullende contribuantenovereenkomst nodig?"
-  what-does-my-companys-legal-team-need-to-know: "Wat moet het juridische team van mijn bedrijf weten?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -161,7 +153,7 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
 </aside>
 
 * **Wat vrij te geven:** [(Bijna) alles?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Als uw juridische team het begrijpt en geïnvesteerd in de open source-strategie van uw bedrijf, zullen ze u het beste kunnen helpen in plaats van hinderen.
-* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
+* **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
 
 <aside markdown="1" class="pquote">
   Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.

@@ -3,14 +3,6 @@ lang: ms
 title: Bahagian Undang-Undang Sumber Terbuka
 description: Semua perkara yang pernah anda terfikir mengenai sisi undang-undang sumber terbuka, dan beberapa perkara yang tidak anda lakukan.
 class: legal
-toc:
-  why-do-people-care-so-much-about-the-legal-side-of-open-source: "Mengapa orang begitu mementingkan sisi undang-undang sumber terbuka?"
-  are-public-github-projects-open-source: "Adakah projek GitHub awam adalah sumber terbuka?"
-  just-give-me-the-tldr-on-what-i-need-to-protect-my-project: "Beri saya ringkasan mengenai perkara yang saya perlukan untuk melindungi projek saya"
-  which-open-source-license-is-appropriate-for-my-project: "Lesen sumber terbuka mana yang sesuai untuk projek saya?"
-  what-if-i-want-to-change-the-license-of-my-project: "Bagaimana jika saya mahu menukar lesen projek saya?"
-  does-my-project-need-an-additional-contributor-agreement: "Adakah projek saya memerlukan perjanjian penyumbang tambahan?"
-  what-does-my-companys-legal-team-need-to-know: "Apa yang perlu diketahui oleh pasukan undang-undang syarikat saya?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
@@ -153,7 +145,7 @@ Jangka panjang, pasukan undang-undang anda boleh melakukan lebih banyak perkara 
 </aside>
 
 * **Apa yang hendak dilepaskan:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Sekiranya pasukan undang-undang anda memahami dan dilaburkan dalam strategi sumber terbuka syarikat anda, mereka akan dapat membantu dan bukannya menghalang usaha anda.
-* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
+* **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
 
 <aside markdown="1" class="pquote">
   Organisasi mesti mempunyai strategi lesen dan pematuhan yang sesuai dengan kedua kategori [["permisive" dan "copyleft" \]. Ini bermula dengan mencatat syarat-syarat pelesenan yang berlaku untuk perisian sumber terbuka yang Anda gunakan - termasuk subkomponen dan dependensi.

@@ -84,7 +84,7 @@ redirect_from: /zh-cn/building-community/
 
 ![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[一份Mozilla研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
+[Mozilla的一份研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
 
 与项目有关的话题也可能发生在互联网的其它地方，例如Stack Overflow，Twitter，或者Reddit。你可以在像这样的一些网站设置通知，这样当有人提及项目时，可以即时的收到提醒。
 
@@ -231,7 +231,7 @@ README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。�
 Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 决策流程
   </p>
 </aside>
 

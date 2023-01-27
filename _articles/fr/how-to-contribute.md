@@ -68,14 +68,6 @@ Une idée commune fausse sur la contribution à l'open source est que vous devez
 
 Même si vous aimez écrire du code, d'autres types de contributions sont un excellent moyen de s'impliquer dans un projet et de rencontrer d'autres membres de la communauté. Construire ces relations vous donnera l'opportunité de travailler sur d'autres parties du projet.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  J'ai d'abord contacté l'équipe de développement de Python (alias python-dev) quand j'ai envoyé un mail à la liste de diffusion le 17 juin 2002 pour accepter mon patch. J'ai rapidement attrapé le bogue open source, et j'ai décidé de commencer à organiser des résumés d'emails pour le groupe. Ils m'ont donné une bonne excuse pour demander des éclaircissements sur un sujet, mais d'un point de vue plus critique je pouvais remarquer quand quelqu'un a signalait quelque chose qui avait besoin d'être réparé.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Aimez-vous la planification d'événements ?
 
 * Organiser des ateliers ou des meetups sur le projet, [comme @fzamperin a fait pour NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -217,7 +209,7 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Une checklist avant de contribuer
 

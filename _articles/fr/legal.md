@@ -125,7 +125,7 @@ Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'
 
 * **Brevets :** Votre entreprise demande-t-elle un brevet dont l'open source de votre projet constituerait [divulgation publique](https://en.wikipedia.org/wiki/Public_disclosure) ? Malheureusement, vous pourriez être invité à attendre (ou peut-être que l'entreprise reconsidérera la maturité de l'application). Si vous attendez des contributions d'employés d'entreprises ayant de grands portefeuilles de brevets, votre équipe juridique voudra peut-être utiliser une licence avec un brevet spécialement pour les contributeurs (comme Apache 2.0 ou GPLv3) ou un accord de contribution supplémentaire (voir au dessus).
 
-* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#eviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
+* **Marques :** Vérifiez que le nom de votre projet [n'est pas en conflit avec les marques existantes](../starting-a-project/#éviter-les-conflits-de-noms). Si vous utilisez les marques de votre propre entreprise dans le projet, vérifiez qu'il ne provoque aucun conflit. [FOSSmarks](http://fossmarks.org/) est un guide pratique pour comprendre les marques dans le contexte de projets libres et open source.
 
 * **Confidentialité :** Votre projet recueille-t-il des données sur les utilisateurs ? "Téléphone Maison" aux serveurs de l'entreprise ? Votre équipe juridique peut vous aider à respecter les politiques de l'entreprise et les réglementations externes.
 
@@ -144,7 +144,7 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 </aside>
 
 * **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
-* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
+* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.
